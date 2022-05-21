@@ -1,3 +1,12 @@
+#WHat is Markdown?
+
+**List of Tips**
+
+1. **Two asterick emphasize**
+
+
+
+
 - 👋 Hi, I’m @JustinRivera-9
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
