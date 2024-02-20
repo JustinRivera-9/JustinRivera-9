@@ -16,7 +16,7 @@ I'm Justin Rivera, a commercial construction estimator by day and front-end deve
 Here are some projects I've built:
 
 - [Finance Pro](https://finance-pro-demo.netlify.app/) **Note:** This is a mobile first design and is currently in demo mode. Please toggle device emulation and read the README file for this as there are bugs I am currently working on.
-- [The Ultimate Quiz App](https://finance-pro-demo.netlify.app/)
+- [The Ultimate Quiz App](https://ultimate-quiz-app.netlify.app/)
 
 Feel free to explore them and provide feedback!
 
