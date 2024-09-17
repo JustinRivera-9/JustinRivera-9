@@ -2,11 +2,12 @@
 I'm Justin Rivera, a commercial construction estimator by day and front-end developer by night! I'm passionate about technology and innovation. Welcome to my GitHub profile!
 
 ## About Me
-- 💻 I'm proficient in JavaScript and React. I am also familiar with all the common libraries in the React ecosystem including:
+- 💻 I'm proficient in JavaScript and React based technologies. I am also familiar with all the common libraries in the React ecosystem including:
     - React Query
     - React Router
     - Redux & Redux ToolKit
     - React Hook Form
+    - NextJs
 - 🎓 I hold a degree in Construction Management from Colorado State University.
 - 🌟 My interests include snowboarding, guitar playing and of course **Programming!**.
 - 📚 I consider myself a lifelong learner and am always looking for new skills to aquire.
